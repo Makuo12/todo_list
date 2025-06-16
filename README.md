@@ -5,10 +5,10 @@ This is a very basic todo list application
 ## Usage
 Command to use
 To create a task in your todo list
-# create: this states the action to be performed
-# "10 push ups": the task
-# workout: the task album name
-./executable_file_name create "10 push ups" workout 
+create: this state the action to be performed
+"10 push ups": the task
+workout: the task album name
+## ./executable_file_name create "10 push ups" workout 
 
 ## Installation
 
